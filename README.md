@@ -2,7 +2,7 @@
 
 Senior software engineer — backend and product work, mostly TypeScript and Python. I ship end-to-end: APIs, data, and the UI when it needs to exist.
 
-I work at [Imricor Medical Systems](https://github.com/Imricor-Medical-Systems). Side projects when something's useful or interesting:
+Senior Software Engineer at Coloplast (Minneapolis area, since Aug 2025). Previously at Imricor. Side projects when something's useful or interesting:
 
 - **[go-slow](https://github.com/zanemeyer/go-slow)** — routing for low-speed vehicles ([live](https://low-speed-routing.online))
 - **[sbom_check](https://github.com/zanemeyer/sbom_check)** — SBOM upload + component lifecycle enrichment
