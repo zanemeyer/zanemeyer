@@ -1,17 +1,11 @@
 ### Zane Meyer
 
-Senior software engineer focused on **applied AI** and **backend/platform** work — TypeScript, Python, and production systems that keep models grounded and fail closed when they shouldn't answer.
+Senior software engineer — backend and product work, mostly TypeScript and Python. I ship end-to-end: APIs, data, and the UI when it needs to exist.
 
-#### Featured
+I work at [Imricor Medical Systems](https://github.com/Imricor-Medical-Systems). Side projects when something's useful or interesting:
 
-**[ai-front-desk](https://github.com/zanemeyer/ai-front-desk)** — Applied AI prototype: grounded RAG with citation checks, fail-closed answers, and an operator loop that authors the handbook.
-
-- Live demo: [ai-front-desk-eight-woad.vercel.app](https://ai-front-desk-eight-woad.vercel.app)
-
-#### Focus areas
-
-- Retrieval-augmented generation, citation / quote-in-source evaluation, guardrails
-- Backend services and adapters around inference (timeouts, degradation, ops)
-- TypeScript / Next.js, Python, and cloud ML delivery
+- **[go-slow](https://github.com/zanemeyer/go-slow)** — routing for low-speed vehicles ([live](https://low-speed-routing.online))
+- **[sbom_check](https://github.com/zanemeyer/sbom_check)** — SBOM upload + component lifecycle enrichment
+- **[ai-front-desk](https://github.com/zanemeyer/ai-front-desk)** — daycare handbook Q&A that only answers from published policy ([demo](https://ai-front-desk-eight-woad.vercel.app))
 
 `zane.richard.meyer@gmail.com`
